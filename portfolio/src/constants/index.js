@@ -115,7 +115,7 @@ const experiences = [
         company_name: "Henry",
         icon: henry,
         iconBg: "black",
-        date: "March 2020 - April 2021",
+        date: "Marzo 2023 - Julio 2023",
         points: [
             "Desarrollo y mantenimiento de aplicaciones web utilizando React.js y otras tecnologías relacionadas.",
             "Colaborar con equipos multifuncionales, incluidos diseñadores, gerentes de producto y otros desarrolladores para crear productos de alta calidad.",
